@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/shivayapandey)
 <img src="https://komarev.com/ghpvc/?username=shivayapandey&label=Profile%20views&color=0e75b6&style=flat" alt="shivayapandey" />
 
-- 🔭 I’m currently working on _Generative Ai_
+- 🔭 I’m currently working on _NLP-_
 - 🌱 I’m currently learning _Python_
 - 📫 Reach me at: shivayapandey359@gmail.com
 
