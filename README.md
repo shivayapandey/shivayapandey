@@ -19,6 +19,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivayapandey&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+## My Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=su81q5jyvmx3hfs74mq7s5252&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 ---
