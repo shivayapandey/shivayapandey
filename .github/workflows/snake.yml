@@ -1,0 +1,15 @@
+name: Generate Snake Game
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shivayapndey
+          outputs: |
+            dist/github-user-contribution.svg
