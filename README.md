@@ -24,6 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shivayapandey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## My Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=su81q5jyvmx3hfs74mq7s5252&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
